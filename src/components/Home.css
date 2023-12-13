@@ -1,0 +1,44 @@
+
+  .text-container {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+  }
+  .maintext {
+    font-size: 75px;
+    border: 5px solid greenyellow; 
+    border-style:dashed;
+    padding: 10px;
+    text-decoration: solid;
+    background-color: grey;
+    color: black;
+  }
+  .subtext{
+    margin-top:20px;
+    font-size:20px;
+    color: black;
+  }
+  .subtext2{
+    font-size: 50px;
+    color: white;
+    margin-top:10px;
+    margin-bottom: 40px;
+    padding: 10px;
+    text-decoration: solid;
+    color: black;
+  }
+  .subtext3 a{
+    color:white;
+    font-size: 40px;
+    color: black;
+    margin-top:50px;
+    padding: 10px;
+    text-decoration: solid;
+    background-color: grey;
+    border: 5px solid greenyellow; 
+    border-style:dashed;
+  }
